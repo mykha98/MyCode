@@ -1,0 +1,2 @@
+# MyCode
+hanya sebuah percobaan
